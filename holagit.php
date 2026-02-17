@@ -8,5 +8,5 @@
 <body>
     <h1>Hola Git</h1>
     <p>Este es un archivo simple de PHP para demostrar el control de versiones de Git.</p>
-</body>
+</body> 
 </html>
