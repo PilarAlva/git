@@ -1,5 +1,5 @@
 <?php
     echo "Agrego contenido en \"vuelvegit.php\" como flujo de trabajo del main. ";
 
-    echo "Más contenido desde rama login.";
+    echo "Agrego contenido. Desde aca: main, no hay idea de lo que pasa en la rama login.";
 ?>
