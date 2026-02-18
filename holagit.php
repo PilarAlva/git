@@ -1,3 +1,4 @@
+<!-- Ctrl + ñ: Abre la terminal con Git -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
